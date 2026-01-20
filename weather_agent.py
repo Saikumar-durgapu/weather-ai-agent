@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "b36b18dcfa37466cd78be212ad1c9d35"
+API_KEY = "your_api_key"
 
 print("✅ RUNNING UPDATED VERSION v2")
 
